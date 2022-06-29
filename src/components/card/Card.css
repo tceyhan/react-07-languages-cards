@@ -6,7 +6,19 @@
     border-radius: 1rem;
     display: grid;
     grid-template-rows: 10% 90%;
-    grid-template-areas: "top" "bottom";    
+    grid-template-areas: "top" "bottom";
+    overflow: hidden;    
+}
+.bars{
+    height: 41rem;
+    width: 5rem;
+    background-color: blue;
+    position:relative;
+    transform:rotate(-45deg);
+    top: 40rem;
+    left: 10rem;
+
+
 }
 .language-title{
     grid-area: top;

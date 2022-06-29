@@ -7,6 +7,7 @@
     text-align: center;
     position: relative;
 }
+
 .card:hover {
     cursor: pointer;
     box-shadow: 0px 0px 9px 2px #2B24B2;
@@ -20,5 +21,12 @@
 
 .card:hover .card-logo{
     transform: scale(1.15);
+}
 
+.list{
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+    list-style-position: outside;
+    padding-left: 15px;
 }
