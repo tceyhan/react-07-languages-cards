@@ -3,7 +3,7 @@
 
 # react-language-cards
 
-# Link : react-languages-cards.netlify.app
+# Link : https://react-languages-cards.netlify.app/
 
 ## Description
 
